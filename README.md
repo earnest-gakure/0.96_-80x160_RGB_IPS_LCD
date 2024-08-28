@@ -3,8 +3,11 @@ This project demonstrates how to use an ST7735 RGB IPS LCD display with an Ardui
 
 ## Components Used
 Arduino Uno: Microcontroller board.
+
 DHT11 Sensor: Measures temperature and humidity.
+
 ST7735 0.96-inch 80x160 RGB LCD Display: Displays data and graphical output.
+
 Connecting Wires: To connect the components.
 ## Libraries Required
 DHT: For interfacing with the DHT11 sensor.
